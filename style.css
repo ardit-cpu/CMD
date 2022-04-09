@@ -1,0 +1,40 @@
+<style>
+    html{
+    background:#666666;
+    }
+    .prompt button{
+        position: relative;
+        right: -420px;
+        width: 90px;
+        height: 30px;
+        outline: none;
+        background: rgb(85, 85, 85);
+        border: thick;
+    }
+    .prompt button:hover{
+        width: 90px;
+        height: 30px;
+        outline: none;
+        background: rgb(201, 107, 107);
+        border: thick;
+    }
+    .prompt header{
+        user-select: none;
+        width: 20cm;
+        height: 30px;
+        background: cyan;
+    }
+    .prompt{
+        width: 20cm;
+        height: 10cm;
+        background: black;
+        color: white;
+    }
+    .prompt textarea{
+        width: 20cm;
+        height: 10cm;
+        background: black;
+        color: white;
+        outline: none;
+    }
+</style>
